@@ -8,6 +8,6 @@ title: XML
 <div id="archives">
 <h2>My XML Documents using CETEIcean</h2>
 <!-- add links to the HTML versions of your XML files below-->
-<p><a href="../xml/Petition Slow.html"></a></p>
+<p><a href="../xml/Petition_Slow.html"></a></p>
 
 </div>
