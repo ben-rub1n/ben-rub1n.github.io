@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/Users/brubi/AppData/Roaming/com.oxygenxml/autorecover/Schema%20Please.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<doc xmlns="https://ben-rub1n.github.io/ns/1.0">
+    <header>
+        <profileDesc>This document was encoded for Julia Flander's F2021 "Intro. to D.H." class at
+            Northeastern University. More particularly, it was encoded for Assignment #4 which asks
+            students, surprise surprise, to design a Relax NG schema and encoded documents using it
+            while thinking through the impact of the choices made.</profileDesc>
+        <fileDesc>
+            <metaTitle>A TRUE COPIE OF THE PETITION OF THE GENTLEWOMEN, and Tradesmens-wives, in and
+                about the City of LONDON.</metaTitle>
+            <pubDate>1641-02-04</pubDate>
+            <author>The Gentlewomen and Tradesmens-wives of 17th c. London</author>
+            <genre>Formal Petition</genre>
+            <publisher>R.O. and G.D.</publisher>
+            <sponsor>John Bull</sponsor>
+            <location>London</location>
+        </fileDesc>
+        <encodingDesc>For an in-depth description of the encoding practices adhered to in this
+            document, see my pseudoschema.</encodingDesc>
+    </header>
+    <body>
+        <titlePage>
+            <title>A TRUE COPIE OF THE PETITION OF THE GENTLEWOMEN, and Tradesmens-wives, in and
+                about the City of LONDON <subtitle>Delivered, To the Honourable, the KNIGHTS,
+                    Citizens, and Burgesses, of the house of Commons in Parliament, the 4th of
+                    February, 1641.</subtitle><subtitle>Together, With their several Reasons why
+                    their sex ought thus to Petition, aswell as the Men; and the manner how both the
+                    Petition and Reasons was delivered.</subtitle><subtitle>Likewise the Answer
+                    which the Honourable Assembly sent to them by Mr Pym, as they stood at the House
+                    doore.</subtitle><subtitle>LONDON, Printed by R.O. G.D. for John Bull,
+                    1641.</subtitle></title>
+        </titlePage>
+        <p>
+            <heading>TO THE HONOURABLE KNIGHTS, CITIZENS, and BURGESSES, of the House of COMMONS
+                assembled in PARLIAMENT. <subheading>The most humble PETITION of the GENTLEWOMEN,
+                    TRADESMENS WIVES, and many others of the Female Sex, all Inhabitants of the
+                    Citie of LONDON, and the Suburbs thereof.</subheading></heading>
+        </p>
+        <p>With lowest submission shewing,</p>
+        <p>THAT we also with all thankfull humility acknowledging the unwearied paines, care and
+            great charge, besides hazard of health and life, which you the noble worthies of this
+            honourable and renowned Assembly have undergone, for the safety both of Church and
+            Commonwealth, for a long time already past; for which not only we your humble
+            Petitioners, and all well affected in this Kingdome, but also all other good Christians
+            /(2)/ are bound now and at all times to acknowledge; yet notwithstanding that many
+            worthy deeds have been done by you, great danger and feare do still attend us, and will,
+            as long as Popish Lords and superstitious Bishops are suffered to have their voice in
+            the House of Peers, and that accursed and abhominable Idole of the Masse suffered in the
+            Kingdome, and that Arch-ene- Tower, yet not receiving his deserved punishment.</p>
+        <p>All these under correction, gives us great cause to suspect, that GOD is angry with us,
+            and to be the chiefe causes why your pious indeavours for a further Reformation
+            proceedeth not with that successe as you desire, and is most earnestly prayed for of all
+            that with well to true Religion, and the flourishing estate both of King and Kingdome;
+            the insolencies of the Papists and their abettors, raiseth a just feare and suspition of
+            sowing sedition, and breaking out into bloody persecution in this Kingdome, as they have
+            done in IRELAND, the thoughts of which sad and barbarous events, maketh our tender
+            hearts to melt within us, forcing us humbly to Petition to this honourable Assembly, to
+            make safe provision for your selves and us, before it be too late.</p>
+        <p>And whereas we, whose hearts have joined cheerefully with all those Petitions which have
+            been exhibited unto you in the behalf of the purity of Religion, and the liberty of our
+            Hubands persons and estates, recounting our selves to have an interest in the common
+            privileges with them, doe with the same confidence assure our selves to finde the same
+            gracious acceptance with you, for casing of those grievances, which in regard of our
+            fraile condition, do more neerley concerne us, /(3)/ and do deeply terrifie our soules:
+            our Domesticall dangers with which this Kingdome is so much distracted, especially
+            growing on us from those treacherous and wicked attempts already are such, as we finde
+            our selves to have as deepe a share as any other.</p>
+        <p>We cannot but tremble at the very thoughts of the horrid and hideous facts which modestly
+            forbids us now to name, occasioned by the bloody Warres in Germany, his Majesties late
+            Northern Army, how often did it affright our hearts, wilst their violence began to break
+            out so furiously upon the persons of those, whose Husbands or Parents were not able to
+            rescure: wee with wee had no cause to speake of those insolencies, and savage usage and
+            unheard of rapes, exercised upon our Sex in Ireland, and have we not just cause to feare
+            they wil prove the forerunners of our ruine, except Almighty GOD by the wisdom and care
+            of this Parliament be pleased to succor us, our Husbands and Children, which are as
+            deere and tender unto us, as the lives and blood of our hearts, to see them murthered
+            and mangled and cut in pieces before our eyes, to see our Children dashed against the
+            stones, and the Mothers milke mingled with in Infants blood, running down the streets;
+            to see our Houses on flaming fire over our heads: oh how dreadfull would this be / we
+            thought it misery enough (though nothing to that we have just cause to feare) but few
+            years since for some of our Sex, by unjust divisions from their bosome comforts, to be
+            redred in a manner Widdows, and the children Fatherlesse, Husbands were imprisoned from
+            the Society of their wives, even against the Lawes of GOD and Nature, and little Infants
+            suffered in their Fathers’ banishments: /(4)/ thousands of our deerest friends have bin
+            compelled to flyfrom Episcopall perfecutions into desert places amongst wilde Beasts,
+            there finding more favour then in their native soyle, and in the midst of all their
+            sorrowes, such hath the pitty of the Prelats been, that our cries could never enter into
+            their eares or hearts, nor yet through multitudes of obstructions could never have
+            accesss or come nigh to those Royall mercies of our most gracious Soveraigne, which we
+            confidently hope, would have relieved us: but after all these pressures ended, we humbly
+            signifie, that our present feares are, that unlesse the blood-thirsty faction of the
+            Papists and Prelates be hindered in their designes, our selves here in England aswell as
+            they in Ireland, shall be exposed to that misery which is more intolerable then that
+            which is already past, as namely to the rage not of men alone, but of Divells incarnate,
+            (as we may so say) besides the thraldome of our soules and consciences in matters
+            concerning GOD, which of all things are most deare unto us.</p>
+        <p>Now the remembrance of all these fearefull accidents aforementioned, do strongly move us
+            from the example of the woman of Tekoa to fall submissively at the feete of his
+            Majestie, our dread Soveraigne, and cry Helpe o King, helpe o yee noble Worthies now
+            sitting in Parliament: And we humbly beseech you, that you will be a meanes to his
+            Majestie and the House of Peeres, that they will be pleased to take our heartbreaking
+            grievances into timely consideration, and to adde strength and incouragement to your noble
+            indeavours and further that you would move his Majesty with our humble requests, that he
+            would be graciously pleased /(5)/ according to the example of the good King Asa, to
+            purge both the Court and Kingdome of that great Idolatrous Service of the Masse, which
+            is tolerated in the Queenes Court, this finne (as we conceive) is able to draw downe a
+            greater curse upon the whole Kingdome, then all your noble and pious indeavours can
+            prevent, which was the cause that the good and pious King Asa would not suffer Idolatry
+            in his own Mother, whose example if it shall please his Majesties gracious goodnesse to
+            follow, in putting downe Popery and Idolatry both in great and small, in Court and in
+            the Kingdome throughout, to subdue the Papists and their abetters, and by taking away
+            power of the Prelats, whose government by long and wefull experience we have found to be
+            against the liberty of our conscience and the freedome of the Gospell, and the sincere
+            profession and practice thereof, then shall our feares be removed, and we may expect
+            that GOD will power downe his blessings in abundance both upon his Majesty, and upon
+            this Honourable Assembly, and upon the whole Land.</p>
+        <p>For which your new Petitioners shall pray affectionately.</p>
+        <p><heading>The Reason follow.</heading></p>
+        <p>It may be thought strange, and unbeseeming our sex to shew our selves by way of Petition
+            to the Honourable Assembly: but the matter being rightly considered, of the right and
+            interest we have in the common and publique cause of the Church, it will, as we conceive
+            (under correction) be found a duty commanded and required.</p>
+        <p>First, because Christ hath purchased us at as deare a rate as he hath done Men, and
+            therefore requireth the like obedience for the same mercy as of men.</p>
+        <p>Secondly, because in the free enjoying of Christ in his own Laws, and a flourishing
+            estate of the Church and Common-wealth, consisteth the happinesse of Women as well as
+            Men.</p>
+        <p>Thirdly, because Women are sharers in the common Calamities that accompany both Church
+            and Common-wealth, when oppression is exercised over the Church or Kingdome wherein they
+            live; and an unlimited power have been given to Prelats to exercise authority over the
+            Consciences of Women, aswell as Men, witnesse Newgate, Smithfield, and other places of
+            persecution, wherein Women aswell as Men have felt the smart of their fury.</p>
+        <p>Neither are we left without example in Scripture, for when the state of the Church, in
+            the time of King Ahasuerus was by the bloody enemies thereof sought to be utterly
+            destroyed, we find that Ester the Queen and her Mayds fasted and prayed, and that Ester
+            petitioned to the King in the behalf of the Church: and though she enterprised this duty
+            with the hazard of her own life, /(7)/ being contrary to the Law to appeare before the
+            King before she were sent for, yet her love to the Church carried her thorow all
+            difficulties, to the performance of that duty.</p>
+        <p>On which grounds we are imboldened to present our humble Petition unto this Honourable
+            Assembly, not weighing the reproaches which may and are by many cast upon us, who (not
+            well weighing the premisses) scoffe and deride our good intent. We do it not out of any
+            selfe conceit, or pride of heart, as seeking to equall our selves with Men, either in
+            Authority or wisdom: But according to our places to discharge that duty we owe to God,
+            and the cause of the Church, as farre as lyeth in us, following herein the example of
+            the Men, which have gone in this duty before us.</p>
+        <p>A relation of the manner how it was delivered, with their Answer, sent by Mr.Pym.</p>
+        <p>This Petition with their Reasons, was delivered the 4th of Reb, 1641. By Mris Anne Stagg,
+            a Gentlewoman and BrewersWife, and many others with her of like rank and quality, which
+            when they had delivered it, after some time spent in reading of it, the Honourable
+            Assembly sent them an Answer by Mr PYM, which was performed in this manner.</p>
+        <p>Mr PYM came to the Commons doore, and called for the Women, and spake unto them in these
+            words: Good Women, your Petition and the Reasons have bin read in the House; and is very
+            thankfully accepted of, and is come in a seasonable time: You shall (God willing)
+            receive from us all the satisfaction which we can possibly give to your just and lawfull
+            desires. We intreat you to repaire to your Houses, and tunre your petition which you
+            have deliver here, in Prayers at home for us; for we have bin, are, and shall be (to our
+            utmost power) ready to relieve you, your husbands, and Children, and to perform the
+            trust committed unto us, towards, God, our King and Country, as becometh fauthfull
+            Christians and Loyall Subjects.</p>
+        <p>FINIS</p>
+    </body>
+</doc>
