@@ -16,9 +16,9 @@ Personally, I am one of the founding members of Pensive Journal, a literary arts
 ### More Information
 
 When I am not "grinding" (god what a word), you can find me destressing through one of my hobbies, whether that's:
--playing bass or piano (I am classically trained but desperately trying to learn improvisation)
--rock climbing and/or hiking
--working out at the gym/meditating
+1. playing bass or piano (I am classically trained but desperately trying to learn improvisation)
+2. rock climbing and/or hiking
+3. working out at the gym/meditating
 
 ### Contact me
 
